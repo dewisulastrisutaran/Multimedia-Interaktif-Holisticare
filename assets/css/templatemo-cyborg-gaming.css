@@ -1653,7 +1653,8 @@ body {
     text-align: center;
   }
   .main-banner h4 {
-    font-size: 35px;
+    font-size: 25px;
+    text-align: center;
   }
   .gaming-library .item ul li,
   .gaming-library .item ul li:first-child,
