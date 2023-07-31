@@ -1646,7 +1646,7 @@ body {
   body .page-content {
     padding: 0px 30px;
   }
-  embed {
+  iframe {
     width: 100%;
   }
   .main-banner {
