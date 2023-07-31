@@ -1646,6 +1646,9 @@ body {
   body .page-content {
     padding: 0px 30px;
   }
+  embed {
+    width: 100%;
+  }
   .main-banner {
     text-align: center;
   }
@@ -1695,6 +1698,9 @@ body {
   .background-header {
   display: inline-block;
   }
+  embed {
+    width: 100%;
+  }
   .header-area .main-nav #search {
     display: none;
   }
@@ -1722,6 +1728,9 @@ body {
 }
 
 @media (max-width: 1200px) {
+  embed {
+    width: 100%;
+  }
   .header-area .main-nav .nav li {
     padding-right: 5px;
     padding-left: 5px;
